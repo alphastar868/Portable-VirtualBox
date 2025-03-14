@@ -1,3 +1,12 @@
+Portable-VirtualBox Testbuild
+===================
+
+This version only downloads Oracle VirtualBox Testbuilds!
+
+This is intended to workaround various Windows 11 reboot failures when using Virtualbox 7.1.6 and earlier.  Additional testbuilds are at https://forum.virtualbox.org/wiki/Testbuilds
+
+===================
+
 Low speed network NAT problems in 7.1.0 rollback to version 7.0.20 anyone who wants can watch can change download url<br>
 On VirtualBox versions ver. 7 and above<br>
 Disable message center notifications and screen capture messages VirtualBoxVM.exe default settings directory:<br>
